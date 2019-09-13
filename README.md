@@ -1,4 +1,4 @@
-# Unit 16 | Assignment - Data Journalism and D3
+#  Data Journalism and D3
 
 ![Newsroom](https://media.giphy.com/media/v2xIous7mnEYg/giphy.gif)
 
@@ -10,7 +10,7 @@ The editor wants to run a series of feature stories about the health risks facin
 
 The data set included with the assignment is based on 2014 ACS 1-year estimates: [https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml](https://factfinder.census.gov/faces/nav/jsf/pages/searchresults.xhtml), but you are free to investigate a different data set. The current data set incldes data on rates of income, obesity, poverty, etc. by state. MOE stands for "margin of error."
 
-## Your Task
+
 
 ### Level 1: D3 Dabbler
 
@@ -48,21 +48,9 @@ While the ticks on the axes allow us to infer approximate values for each circle
 
 * Check out [David Gotz's example](https://bl.ocks.org/davegotz/bd54b56723c154d25eedde6504d30ad7) to see how you should implement tooltips with d3-tip.
 
-- - -
 
-### Assessment
 
-Your final product will be assessed on the following metrics:
 
-* Completion of all steps in chosen level
-
-* Coherency of scatter plot (labels, ticks)
-
-* Visual attraction
-
-* Professionalism
-
-**Good luck!**
 
 ## Copyright
 
